@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gurman_dostavka_edi_noviy_urengoy_krem_sup_tomatniy" size="1.000000 1.000000" />
+    <ImageTarget name="burger_sandwich_PNG4114" size="1.000000 0.787062" />
+    <ImageTarget name="dumplings_PNG44" size="1.000000 0.734000" />
+    <ImageTarget name="fries_PNG55" size="1.000000 0.721649" />
+    <ImageTarget name="CEZAR" size="1.000000 0.800000" />
+    <ImageTarget name="muffin_PNG153" size="1.000000 1.000000" />
+    <ImageTarget name="chickn" size="1.000000 0.643777" />
+    <ImageTarget name="409" size="1.000000 0.555556" />
+    <ImageTarget name="455" size="1.000000 1.000000" />
+    <ImageTarget name="pancake" size="1.000000 0.733333" />
+  </Tracking>
+</QCARConfig>
